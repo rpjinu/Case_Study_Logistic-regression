@@ -1,9 +1,9 @@
 # Case_Study_Logistic-regression
-all python project
-#Problem Statement:-
+all python project\
+#Problem Statement:-\
 One of the prestigious bank maintains a database of the customer and their details. Based on this dataset the requirememt is to create the classification model using Logistic Regression to predict if the customer will churn or not. There are around 10000 records using this we need to create the model after breaking the data into test and train.
 
-Data Dictionary
+#Data Dictionary:-\
 
 RowNumber - Unique number
 
